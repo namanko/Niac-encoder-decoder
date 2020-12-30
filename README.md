@@ -1,9 +1,14 @@
 Hey all this a cipher made by me, hope you like it
+
 The function to encode is (2a + bx)mod 26
+
 where a and b ----> key 
+
 x ----> code of the alphabet to encode
+
 mod26 ---> remainder when divided by 26
-codes of alphabets are 
+
+Codes of alphabets are 
 a-0
 b-1
 c-2
